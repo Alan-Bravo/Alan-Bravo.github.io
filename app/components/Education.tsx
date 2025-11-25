@@ -13,7 +13,7 @@ const education: EducationItem[] = [
   {
     degree: 'Ingeniería en Sistemas',
     institution: 'Universidad Tecnológica Nacional',
-    period: '2025 - Actualidad',
+    period: '2025 - En Curso',
     description: 'Grado universitario en Ingeniería en Sistemas de Información.',
   },
   {

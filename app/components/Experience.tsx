@@ -13,7 +13,7 @@ const experiences: ExperienceItem[] = [
   {
     title: 'Frontend Developer',
     company: 'Applica Solutions',
-    period: 'Marzo 2025 - Actualidad',
+    period: 'Marzo 2025 - Noviembre 2025',
     description:
       'Desarrollo de e-commerce desde 0 con Laravel, Vue.js, Tailwind CSS, MySQL, Docker, Git/GitFlow. Trabajo en equipo con metodologías ágiles.',
   },
