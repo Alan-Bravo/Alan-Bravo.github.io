@@ -25,7 +25,7 @@ const links: LinkItem[] = [
   },
   {
     name: 'Descargar CV',
-    url: 'https://drive.google.com/uc?export=download&id=1Hi5KJxFFcYBR9q7RqI8hAsRkUpU7tXDU',
+    url: 'https://drive.google.com/uc?export=download&id=1v3NYOPcItH1UWWx_VOy-FVP0qh18RQoY',
     icon: 'mdi:file-document',
     download: true,
     fileName: 'CV-Alan-Bravo.pdf',
